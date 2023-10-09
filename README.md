@@ -7,11 +7,11 @@
  </h3>
 <div align="center">
 <img align="center" height="800" width="800" src="./cast.png"/>
- <a href="./netflix.ipynb" style=" color:lightblue; cursor:pointer;">
 <h2>
+ <a href="./netflix.ipynb" style=" color:lightblue; cursor:pointer;">
 Go To Code 
-</h2>
 </a>
+</h2>
 </div>
 
 <br>
@@ -24,11 +24,11 @@ Go To Code
 <div align="center">
 <img align="center" height="800" width="800" src="./director.png"/>
 
- <a href="./netflix.ipynb" style=" color:lightblue; cursor:pointer;">
 <h2>
+ <a href="./netflix.ipynb" style=" color:lightblue; cursor:pointer;">
 Go To Code 
-</h2>
 </a>
+</h2>
 </div>
 <br>
 <br>
@@ -39,11 +39,11 @@ Go To Code
  </h3>
 <div align="center">
 <img align="center" height="800" width="800" src="./country.png"/>
- <a href="./netflix.ipynb" style=" color:lightblue; cursor:pointer;">
 <h2>
+ <a href="./netflix.ipynb" style=" color:lightblue; cursor:pointer;">
 Go To Code 
-</h2>
 </a>
+</h2>
 </div>
 <br>
 <br>
