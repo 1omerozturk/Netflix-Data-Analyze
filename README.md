@@ -7,7 +7,7 @@
  </h3>
 <div align="center">
 <img align="center" height="800" width="800" src="./cast.png"/>
- <a href="./netflix.ipynb" align="center" style=" color:lightblue; cursor:pointer;">
+ <a href="./netflix.ipynb" style=" color:lightblue; cursor:pointer;">
 <h2>
 Go To Code 
 </h2>
@@ -24,7 +24,7 @@ Go To Code
 <div align="center">
 <img align="center" height="800" width="800" src="./director.png"/>
 
- <a href="./netflix.ipynb" align="center" style=" color:lightblue; cursor:pointer;">
+ <a href="./netflix.ipynb" style=" color:lightblue; cursor:pointer;">
 <h2>
 Go To Code 
 </h2>
@@ -39,7 +39,7 @@ Go To Code
  </h3>
 <div align="center">
 <img align="center" height="800" width="800" src="./country.png"/>
- <a href="./netflix.ipynb" align="center" style=" color:lightblue; cursor:pointer;">
+ <a href="./netflix.ipynb" style=" color:lightblue; cursor:pointer;">
 <h2>
 Go To Code 
 </h2>
