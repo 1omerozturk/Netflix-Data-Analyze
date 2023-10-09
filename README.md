@@ -47,8 +47,8 @@ Go To Code
 </div>
 <br>
 <br>
-<a align="center" style="color:gray; cursor:pointer" href="https://www.kaggle.com/datasets/shivamb/netflix-shows" target="_blank">
-<h2>
+<h2 align="center">
+<a style="color:gray; cursor:pointer" href="https://www.kaggle.com/datasets/shivamb/netflix-shows" target="_blank">
 Dataset
-</h2>
 </a>
+</h2>
